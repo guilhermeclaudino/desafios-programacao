@@ -1,9 +1,9 @@
 # Resolução de Desafios Práticos
 
-* **Estudante:** [NOME COMPLETO DO SEU AMIGO]
-* **Plataforma Utilizada:** [freeCodeCamp / Coddy / Beecrowd / HackerRank]
-* **Tecnologia Praticada:** [Linguagem C / SQL / HTML e CSS]
-* **Disciplina:** [NOME DA MATÉRIA / TURMA]
+* **Estudante:** [Guilherme Claudino Silva]
+* **Plataforma Utilizada:** [freeCodeCamp]
+* **Tecnologia Praticada:** [Bancos de dados relacionais]
+* **Disciplina:** [Design Profissional / Ciência da Computação]
 
 ---
 
@@ -11,13 +11,13 @@
 
 | Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma | Imagem Comprobatória |
 | :---: | :--- | :--- | :---: | :---: |
-| 01 | [Nome do exercício 01] | [Explicação curta do que foi feito] | Aprovado | [Ver Imagem](./prints/print_01.png,%20exercicio_banco.jpg.png) |
-| 02 | [Nome do exercício 02] | [Explicação curta do que foi feito] | Aprovado | [Ver Imagem](./prints/print_02.png,%20exercicio_banco.jpg.png) |
-| 03 | [Nome do exercício 03] | [Explicação curta do que foi feito] | Aprovado | [Ver Imagem](./prints/print_03.png,%20exercicio_banco.jpg.png) |
-| 04 | [Nome do exercício 04] | [Explicação curta do que foi feito] | Aprovado | [Ver Imagem](./prints/print_04.png,%20exercicio_banco.jpg.png) |
+| 01 | Entendendo a linha de comando e trabalhando com Bash | Módulo teórico focado em fundamentos do terminal Bash e gerenciamento de arquivos. | Aprovado | [Ver Imagem](./prints/print_01.png,%20exercicio_banco.jpg.png) |
+| 02 | Quiz de comandos Bash | Avaliação prática sobre a utilização e sintaxe dos principais comandos do Bash. | Aprovado | [Ver Imagem](./prints/print_02.png,%20exercicio_banco.jpg.png) |
+| 03 | Trabalhando com bancos de dados relacionais | Lição sobre conceitos de bancos relacionais, tabelas e junções (`JOINs`). | Aprovado | [Ver Imagem](./prints/print_03.png,%20exercicio_banco.jpg.png) |
+| 04 | Painel de Progresso - Bancos de Dados Relacionais | Visão geral da trilha com 40 de 64 passos concluídos na certificação. | Aprovado | [Ver Imagem](./prints/print_04.png,%20exercicio_banco.jpg.png) |
 
 ---
 
 ## Resumo dos Conceitos Praticados
 
-[Escreva 1 ou 2 parágrafos sobre o que foi aprendido e quais foram as dificuldades.]
+Neste desafio aprendi a montar uma página de internet simples, com título, textos, imagens e links. A maior dificuldade foi entender o começo, mas o site foi guiando passo a passo.
